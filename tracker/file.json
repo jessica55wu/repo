@@ -1,9 +1,16 @@
 [
 	{
 		"date": "2023-04-20",
-		"sleep_start": "15:12",
-		"sleep_end": "15:13",
+		"sleep_start": "15:13",
+		"sleep_end": "15:14",
 		"quality": "3",
 		"notes": "very short nap"
+	},
+	{
+		"date": "2023-04-21",
+		"sleep_start": "21:00",
+		"sleep_end": "09:00",
+		"quality": "5",
+		"notes": "got lots of rest"
 	}
 ]
